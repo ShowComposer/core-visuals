@@ -32,12 +32,11 @@
   "homepage": "https://github.com/ShowComposer/core-visuals#readme",
   "devDependencies": {
     "@types/node": "^10.14.7",
-    "pkg": "^4.4.0",
     "tslint": "^5.16.0",
     "typescript": "^3.4.5"
   },
   "dependencies": {
     "@hibas123/nodelogging": "^2.0.6",
-    "@showcomposer/broker": "0.0.1-dev.10",
+    "@showcomposer/datalib": "0.0.7"
   }
 }
